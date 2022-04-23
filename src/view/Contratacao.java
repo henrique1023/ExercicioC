@@ -11,6 +11,7 @@ public class Contratacao {
 				"(4)Estagiario");
 		int esc = Integer.parseInt(sc.nextLine());
 		switch (esc) {
+		
 		case value:
 			
 			break;
